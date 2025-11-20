@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "aeaa319a-637c-478f-bc22-d3b869cb23c2",
+      "database_name": "solara-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
